@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairaj28" alt="jairaj28" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/@jai_rajsingh" target="blank"><img src="https://img.shields.io/twitter/follow/@jai_rajsingh?logo=twitter&style=for-the-badge" alt="@jai_rajsingh" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/@jai_rajsingh" target="blank"></a> </p>
 
 
 - 🌱 I’m currently learning **M.E.R.N**
