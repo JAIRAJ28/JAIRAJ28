@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairaj28&label=Profile%20views&color=0e75b6&style=flat" alt="jairaj28" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairaj28" alt="jairaj28" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@jai_rajsingh" target="blank"></a> </p>
 
