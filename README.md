@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jai Raj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="express_coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairaj28&label=Profile%20views&color=0e75b6&style=flat" alt="jairaj28" /> </p>
+
+<p align="left">
+
+ <img src="https://komarev.com/ghpvc/?username=jairaj28&label=Profile%20views&color=0e75b6&style=flat" alt="jairaj28" /> </p>
 
 - 🌱 I’m currently learning **M.E.R.N**
 
@@ -71,9 +74,7 @@
  </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
- </a> 
-
-</p>
+ </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairaj28&show_icons=true&locale=en&layout=compact" alt="jairaj28" /></p>
 
