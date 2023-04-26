@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Raj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="express_coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left">
 
  <img src="https://komarev.com/ghpvc/?username=jairaj28&label=Profile%20views&color=0e75b6&style=flat" alt="jairaj28" /> </p>
