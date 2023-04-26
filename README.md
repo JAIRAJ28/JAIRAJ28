@@ -1,3 +1,4 @@
+<!-- ![Master-Header]() -->
 <img  alt="Coding" width="100%" height="400px" margin-left="50%" src="https://www.lambdatest.com/resources/images/news24.gif">
 <h1 align="center">Hi 👋, I'm Jai Raj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
