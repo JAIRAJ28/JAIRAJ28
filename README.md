@@ -82,8 +82,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  </a> </p>
 <h2>❤️‍🔥 Streak stats:</h2>
-<p align="center"><img style="background:black" align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairaj28&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=635985" alt="jairaj28" /></p>
+<p align="center"><img style="background:black" align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairaj28&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairaj28&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=443C68" alt="jairaj28" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairaj28&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairaj28&theme=react&hide_border=true&bg_color=393053" alt="jairaj28" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairaj28&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
