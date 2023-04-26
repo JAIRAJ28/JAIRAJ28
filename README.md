@@ -87,5 +87,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairaj28&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairaj28&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
-<h2>🐍 shhh Eating my contribution graph</h2>
-![snake gif](https://github.com/JAIRAJ28/JAIRAJ28/blob/output/github-contribution-grid-snake.gif)
+<h2 align="center">🐍 shhh Eating my contribution graph</h2>
+<div align="center"> 
+<img  src="https://github.com/JAIRAJ28/JAIRAJ28/blob/output/github-contribution-grid-snake.svg" style="background-color: black" alt="SNAKE_GIF">
+</div>
