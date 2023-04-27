@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jairajsingh28july@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tDUUMOm3fcji4iai-6-18Yxyzz7a7uIs/view?usp=sharing](https://drive.google.com/file/d/1tDUUMOm3fcji4iai-6-18Yxyzz7a7uIs/view?usp=sharing)
+- 📄 Know about my experiences 🤞[RESUME](https://drive.google.com/file/d/1tDUUMOm3fcji4iai-6-18Yxyzz7a7uIs/view?usp=sharing)
 <br/>
 <br/>
 <h2>✍️ Dev Quote :</h2>
