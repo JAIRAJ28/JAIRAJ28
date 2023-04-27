@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N**
 
-- 👨‍💻 All of my projects are available at [https://jairaj28.github.io](https://jairaj28.github.io)
+- 👨‍💻 All of my projects are available at 🙋‍♂️[PORTFOLIO](https://jairaj28.github.io/)
 
 - 💬 Ask me about **React,MondoDB,Node.js,Javascript,HTML,CSS.**
 
