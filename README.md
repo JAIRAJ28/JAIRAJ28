@@ -16,6 +16,7 @@
 - 💬 Ask me about **React,MondoDB,Node.js,Javascript,HTML,CSS.**
 
 - 📫 How to reach me **jairajsingh28july@gmail.com**
+-  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/jai-raj-singh-1491361b2/)
 
 - 📄 Know about my experiences 🤞[RESUME](https://drive.google.com/file/d/1tDUUMOm3fcji4iai-6-18Yxyzz7a7uIs/view?usp=sharing)
 <br/>
